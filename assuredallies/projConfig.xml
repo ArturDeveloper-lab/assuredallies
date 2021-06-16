@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<environment>
+    <!-- init  - Device -->
+
+    <BrowserType>Chrome</BrowserType>
+
+
+    <qaPositionSearch>QA</qaPositionSearch>
+    <qaPosition>QA Automation Engineer</qaPosition>
+    <nlpPosition>NLP Data Scientist</nlpPosition>
+    <WaitTime>10</WaitTime>
+
+    <TimeStampTemplate>yyyy-MM-dd_HH-mm-ss</TimeStampTemplate>
+    <LogFileName>ExecutionLog.txt</LogFileName>
+    <ReportFilePath>.\\Reports\\</ReportFilePath>
+    <ReportFileName>ExtentReport.html</ReportFileName>
+
+
+</environment>
